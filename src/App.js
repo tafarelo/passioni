@@ -1,25 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from 'react';
+import './globalStyles/animations.css';
+import './globalStyles/bootstrap.css';
+import './globalStyles/bootstrap.addons.css';
+import './globalStyles/bootstrap.min.css';
+import './globalStyles/font-awesome.css';
+import './globalStyles/font-awesome4.7.css';
+import './globalStyles/main.css';
+import './globalStyles/main2.css';
+import './globalStyles/main3.css';
+import './globalStyles/shop.css';
+import './globalStyles/shop2.css';
+import './globalStyles/shop3.css';
+import './globalStyles/slick.css';
+import './globalStyles/slick-theme.css';
+
+import Routes from './routes'
 
 function App() {
+  useEffect(() => {
+    // alert("iniciou")
+  }, [])
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes />
   );
 }
 
