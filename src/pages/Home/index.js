@@ -675,7 +675,7 @@ function Home() {
 										</ul>
 									</div>
 								</div>
-								<div className="vertical-item item-gallery content-absolute text-center ds">
+								{/* <div className="vertical-item item-gallery content-absolute text-center ds">
 									<a href="personal-modal-page.html" className="item-media  h-100 w-100 d-block" data-width="1080" data-height="1520">
 										<img src={require("../../assets/images/gallery/model_12.jpg")} alt="img" />
 										<div className="media-links"></div>
@@ -1484,7 +1484,7 @@ function Home() {
 											</li>
 										</ul>
 									</div>
-								</div>
+								</div> */}
 							</div>
 						</div>
 					</div>
@@ -1625,7 +1625,7 @@ function Home() {
 									</div>
 								</div>
 
-								<div className="col-sm-6 col-lg-4 col-lgx-3 col-xl-2 studio session">
+								{/* <div className="col-sm-6 col-lg-4 col-lgx-3 col-xl-2 studio session">
 									<div className="vertical-item item-gallery content-absolute text-center ds">
 										<a href="personal-modal-page.html" className="item-media h-100 w-100 d-block">
 											<img src={require("../../assets/images/gallery/model_2.jpg")} alt="img" />
@@ -2270,7 +2270,7 @@ function Home() {
 											</ul>
 										</div>
 									</div>
-								</div>
+								</div> */}
 
 							</div>
 
