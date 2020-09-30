@@ -1491,7 +1491,7 @@ function Home() {
 				</div>
 			</section>
 
-			<section id="about" className="ds hello-section s-pt-70 s-pb-115  s-pb-md-130 s-pb-lg-100 s-pt-lg-175 s-pb-xl-235 overflow-visible s-overlay s-mobile-overlay">
+			{/* <section id="about" className="ds hello-section s-pt-70 s-pb-115  s-pb-md-130 s-pb-lg-100 s-pt-lg-175 s-pb-xl-235 overflow-visible s-overlay s-mobile-overlay">
 				<div className="container">
 					<div className="fw-divider-space hidden-below-xxl pt-250"></div>
 					<div className="fw-divider-space hidden-below-lg pt-130"></div>
@@ -1516,8 +1516,8 @@ function Home() {
 					</div>
 					<div className="fw-divider-space hidden-below-lg mt-30"></div>
 				</div>
-			</section>
-
+			</section> */}
+{/* 
 			<section id="become-model" className="become-model s-py-115 s-pt-md-80 s-pb-md-90 s-pt-xl-155 s-pb-xl-145">
 				<div className="fw-divider-space hidden-below-md mt-65"></div>
 				<div className="container ">
@@ -1547,7 +1547,7 @@ function Home() {
 					</div>
 				</div>
 				<div className="fw-divider-space hidden-below-md pt-50"></div>
-			</section>
+			</section> */}
 
 			<section id="gallery" className="gallery-section gallery-6 bottom_mask_add overflow-visible ds s-pt-115 s-pb-70 s-pb-md-80 s-pt-md-135 s-pb-xl-155 s-pt-xl-205">
 				<div className="container-fluid">
@@ -2285,7 +2285,7 @@ function Home() {
 				</div>
 			</section>
 
-			<section id="quote" className="blockquote-section s-parallax s-overlay ds s-pt-85 s-pb-140 s-pb-md-170 s-pb-lg-80 s-pt-md-70 s-pt-xl-200 s-pb-xl-190">
+			{/* <section id="quote" className="blockquote-section s-parallax s-overlay ds s-pt-85 s-pb-140 s-pb-md-170 s-pb-lg-80 s-pt-md-70 s-pt-xl-200 s-pb-xl-190">
 				<div className="container " data-animation="fadeIn">
 					<div className="row">
 						<div className="col-xs-12 col-lg-10 offset-lg-1">
@@ -2343,7 +2343,7 @@ function Home() {
 					</div>
 				</div>
 				<div className="fw-divider-space hidden-below-lg pt-90"></div>
-			</section>
+			</section> */}
 
 			<section id="new-faces" className="faces-section gallery-1 ds top_mask_add overflow-visible item-gallery s-pt-80 s-pb-30 s-pb-md-70 s-pt-md-90 s-pb-xl-120 s-pt-xl-180">
 				<div className="container">
@@ -2793,7 +2793,7 @@ function Home() {
 				</div>
 			</section>
 
-			<section id="team" className="team-section ds s-pb-lg-100 bottom_mask_subtract">
+			{/* <section id="team" className="team-section ds s-pb-lg-100 bottom_mask_subtract">
 				<div className="container">
 					<div className="row">
 						<div className="col-12 flex-column">
@@ -2866,9 +2866,9 @@ function Home() {
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> */}
 
-			<section className="card-section post overflow-visible">
+			{/* <section className="card-section post overflow-visible">
 				<div className="container-fluid">
 					<div className="row">
 						<div className="col-sm-12 text-center">
@@ -2965,9 +2965,9 @@ function Home() {
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> */}
 
-			<section id="map" className="ds ms page_map top_mask_subtract" data-draggable="false" data-scrollwheel="false">
+			{/* <section id="map" className="ds ms page_map top_mask_subtract" data-draggable="false" data-scrollwheel="false">
 				<div className="marker">
 					<div className="marker-address">USA, 301 S Christopher Columbus Blvd, Philadelphia, PA 19106</div>
 					<div className="marker-description">
@@ -2978,7 +2978,7 @@ function Home() {
 
 					<img className="marker-icon" src={require("../../assets/images/map_marker_icon.png")} alt="img" />
 				</div>
-			</section>
+			</section> */}
 
 			<section id="contacts" className="contacts-section top_mask_add ds overflow-visible background-contact s-pt-70 s-pb-60 s-pt-md-95 s-pb-md-80 s-pt-xl-170 s-pb-xl-140 c-gutter-30">
 				<div className="container">
@@ -3049,7 +3049,7 @@ function Home() {
 				</div>
 			</section>
 
-			<section className="ds background-contact s-pt-20 s-pb-60 s-pb-md-90 s-pb-xl-150 c-mb-30">
+			{/* <section className="ds background-contact s-pt-20 s-pb-60 s-pb-md-90 s-pb-xl-150 c-mb-30">
 				<div className="fw-divider-space hidden-below-xl mt-40"></div>
 				<div className="container">
 					<div className="row">
@@ -3086,7 +3086,7 @@ function Home() {
 					</div>
 				</div>
 				<div className="fw-divider-space hidden-below-xl mt-50"></div>
-			</section>
+			</section> */}
 
 			<footer className="page_footer ds top_mask_add s-pb-10 s-pt-70 s-pb-md-40 s-pt-md-85 s-pb-xl-140 s-pt-xl-145">
 				<div className="container">
