@@ -13,6 +13,7 @@ import './globalStyles/shop2.css';
 import './globalStyles/shop3.css';
 import './globalStyles/slick.css';
 import './globalStyles/slick-theme.css';
+import './App.css';
 
 import Routes from './routes'
 
